@@ -1,0 +1,2 @@
+# Accentric
+Accentric merupakan Sistem Informasi Akuntansi berbasis Web yang dibangun dengan framework Laravel. Accentric mempunyai fitur Jurnal Umum, Buku Besar dan Neraca Saldo serta cetak laporannya.
